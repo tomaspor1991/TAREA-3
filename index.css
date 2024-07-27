@@ -1,0 +1,7 @@
+h1{color: rgb(109, 0, 36); /*color titulo*/
+text-align: center; /*alineacion de titutlos*/
+text-transform: uppercase;
+}
+h2{ color: blue;}
+p{line-height: 30px;}
+.destacado{color: orange; /*Texto destacado*/}
